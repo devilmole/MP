@@ -1,7 +1,7 @@
 <component name="ArtifactManager">
   <artifact type="war" name="MP:war">
     <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="devilmole-1.0.0-BUILD-SNAPSHOT.war">
+    <root id="archive" name="test.war">
       <element id="artifact" artifact-name="MP:war exploded" />
     </root>
   </artifact>
